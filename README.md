@@ -1,1 +1,3 @@
 # my-python-ku
+ini adalha project pertama ku dengan python
+Okey...
